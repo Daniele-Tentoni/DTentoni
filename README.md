@@ -18,3 +18,4 @@ Agire direttamente su questo file README per modificare questa frase:
 
 ### Altre cose
 Troverete dei gran bei scioglilingua nella cartella scioglilingua che a me piacciono tanto, tra cui uno con tante t.
+Ovviamente se volete potete modificare quelli presenti o aggiungerne altri.
