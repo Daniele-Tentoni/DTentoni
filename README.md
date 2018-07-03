@@ -5,9 +5,13 @@ Questo repository contiene una frase che tutti possono migliorare e che serve pe
 Alcune regole per modificare la frase:
 1. Aggiungere parole con quante più t possibili, meglio se doppie.
 2. Ogni frase deve avere senso compiuto a se, ma non necessariamente deve avere senso compiuto con il resto del discorso.
-3. Avere tanta fantasia, evitando di riscrivere cose già scritte ovviamente.
+3. Avere tanta fantasia, evitando di riscrivere cose già scritte ovviamente.    
+
+Farebbe piacere anche se scriveste il vostro nome nella sezione sottostante di contributori, per lasciare un ricordo.
 
 ## Frase da modificare
 Agire direttamente su questo file README per modificare questa frase:
     
     Tento, tanto tempo fa tentò ...
+
+### Contributori
