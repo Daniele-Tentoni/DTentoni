@@ -10,6 +10,4 @@ Alcune regole per modificare la frase:
 ## Frase da modificare
 Agire direttamente su questo file README per modificare questa frase:
     
-    ```
     Tento, tanto tempo fa tentò ...
-    ```
