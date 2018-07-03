@@ -12,7 +12,7 @@ Farebbe piacere anche se scriveste il vostro nome nella sezione sottostante di c
 ## Frase da modificare
 Agire direttamente su questo file README per modificare questa frase:
     
-    Tento, tanto tempo fa tentò ...
+    Tento, tanto tempo fa tentennava tutto tanto da tintinnare come un triangolo ...
 
 ### Contributori
 
