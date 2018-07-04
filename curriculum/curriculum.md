@@ -1,5 +1,6 @@
 ### Introduzione
-Edito questo file perché mi risulta più comodo che aggiornare costantemente un pdf o documento ogni volta che svolgo una nuova attività lavorativa. Inoltre a me la semplicità piace.    
+Edito questo file perché mi risulta più comodo che aggiornare costantemente un pdf o documento ogni volta che svolgo una nuova attività lavorativa.    
+Inoltre a me la semplicità piace e anche il markdown.    
 In questa cartella verranno inoltre inseriti attestati virtuali che mano a mano andrò ad ottenere.    
 Eventuali informazioni personali verranno omesse per evidenti motivi. Le aziende che mai mi contatteranno ne entreranno in possesso secondo i canali ufficiali.
 
@@ -9,11 +10,13 @@ l'accrescimento delle stesse già consolidato durante gli anni di lezione. Cerco
 realtà dove un futuro avere le prime esperienze lavorative concrete.
 
 ### Attività formative e lavorative:
-* Studente presso I.T.I.S. Blaise Pascal dal 20/09/2010 al 06/06/2015
-* Studente presso Ingegneria e Scienze Informatiche Cesena Unibo dal 21/09/2015 a oggi
-* Tirocinante presso Studio Aurale di Marco Pasquali da Maggio 2014 a Luglio 2015
-* Tirocinante presso Wedo.it S.R.L. dal 16/04/2018 al 01/06/2018
-* Lavoratore presso Wedo.it S.R.L. dal 04/06/2018 a oggi.
+|Mansione|Presso|Dal|Al|    
+|---|---|---|---|    
+|Studente|I.T.I.S. Blaise Pascal|20/09/2010|06/06/2015|     
+|Tirocinante|Studio Aurale di Marco Pasquali|Maggio 2014|Luglio 2015|
+|Studente|Ingegneria e Scienze Informatiche Cesena Unibo|21/09/2015|oggi|
+|Tirocinante|Wedo.it S.R.L.|16/04/2018|01/06/2018|
+|Lavoratore|Wedo.it S.R.L.|04/06/2018|oggi|
 
 ### Competenze
 * Inglese Livello B1, Centro Linguistico D'Ateneo Università di Bologna
