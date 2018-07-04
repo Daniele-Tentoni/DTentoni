@@ -1,5 +1,7 @@
 # myName
-Questo repository contiene una frase che tutti possono migliorare e che serve per presentarmi. Essendo una cosa molto nerd soltanto i nerd potranno migliorarla, facendo una clone di questo repository, creando un branch in cui fare le loro modifiche, creare una pull request e farsi approvare le modifiche da me. Quindi... HARDCODING!!!
+Questo repository contiene una frase che tutti possono migliorare e che serve per presentarmi.    
+Essendo una cosa molto nerd soltanto i nerd potranno migliorarla, facendo una clone di questo repository, creando un branch in cui fare le loro modifiche, creare una pull request e farsi approvare le modifiche da me. Quindi... HARDCODING!!!
+Piano piano sta crescendo fino a diventare una sorta di sitoweb molto nerd, chissà se in un futuro ne farò uno mio. Quindi c'è anche una cartella curriculum con il mio curriculum che ogni tanto aggiornerò.
 
 ## Come modificare la frase:
 Alcune regole per modificare la frase:
